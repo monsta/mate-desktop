@@ -20,20 +20,17 @@
       <para>
 	You can also submit bugs and browse the list of known bugs by
 	connecting to the <ulink type="http"
-	url="http://bugzilla.gnome.org/">MATE bug tracking
+	url="https://github.com/mate-desktop/">MATE bug tracking
 	database</ulink>.  You will need to register before you can
-	submit any bugs this way — and do not forget to read
-	<ulink type="http"
-	url="http://bugzilla.gnome.org/bugwritinghelp.html">Bug
-	Writing Guidelines</ulink>. 
+	submit any bugs this way. 
       </para>
       
       <para>
 	Please note that some of MATE applications are developed outside of MATE, or by
 	commercial companies (these products are still free
-	software). For example, <application>Inkscape</application>, a
-	vector graphics application, is developed at <ulink type="http"
-	url="http://sourceforge.net/projects/inkscape/">SourceForge</ulink>. Bugs reports and
+	software). For example, <application>blueman</application>, a
+	bluetooth application, is developed at <ulink type="http"
+    url="https://github.com/blueman-project/blueman/">GitHub</ulink>. Bugs reports and
 	comments about these products should be directed to the
 	respective organization or company. If you are using <application>Bug 
 	Buddy</application>, it will automatically send bug reports to
@@ -72,13 +69,8 @@
       <para>
 	Alternatively, you can just send your comments by email to the
 	<ulink type="http"
-	url="http://live.gnome.org/DocumentationProject">MATE
-	Documentation Project</ulink> mailing list; our address is
-	<email>mate-doc-list@gnome.org</email>. And by the way: if you are not
-	a developer but want to help MATE —
-	<ulink type="http"
-	url="http://live.gnome.org/DocumentationProject/Join">join
-	the GDP</ulink> and help us  improve MATE documentation.
+	url="http://ml.mate-desktop.org/listinfo">MATE
+	Documentation Project</ulink> mailing list.
       </para>
     </section>
     <!-- NOTE TO TRANSLATORS: end of old material -->

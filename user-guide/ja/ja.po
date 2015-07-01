@@ -1769,7 +1769,7 @@ msgstr ""
 "XML 形式のドキュメントをファイル・マネージャから開くには、"
 "<application>Caja</application> ファイル・マネージャの中から直接開くか、"
 "またはアイコンを <application>Caja</application> から <application>Yelp</"
-"application> の閲覧ペインまたはランチャにドラッグ&ドロップしてください。"
+"application> の閲覧ペインまたはランチャにドラッグドロップしてください。"
 
 #: C/gostools.xml:924(title)
 msgid "Using the Command Line to Open Documents"
@@ -4052,7 +4052,7 @@ msgid ""
 msgstr ""
 "ファイル・マネージャからパネルへランチャを追加する場合、その <filename>."
 "desktop</filename> ファイルをシステムのフォルダから見つけ出し、<filename>."
-"desktop</filename> ファイルをパネルへドラッグ&ドロップしてください。"
+"desktop</filename> ファイルをパネルへドラッグドロップしてください。"
 
 #: C/gospanel.xml:778(title)
 msgid "Modifying a Launcher"
@@ -6645,7 +6645,7 @@ msgstr ""
 
 #: C/gosoverview.xml:457(para)
 msgid "Drag-and-drop"
-msgstr "ドラッグ&ドロップ"
+msgstr "ドラッグドロップ"
 
 #: C/gosoverview.xml:458(para)
 msgid ""
@@ -7828,7 +7828,7 @@ msgid ""
 "guimenu><guimenuitem>Home Folder</guimenuitem></menuchoice>."
 msgstr ""
 "トップ・パネルのメニュー・バーから<menuchoice><guimenu>場所</"
-"guimenu><guimenuitem><interface>ホーム・フォルダ</guimenuitem></menuchoice>を"
+"guimenu><guimenuitem>ホーム・フォルダ</guimenuitem></menuchoice>を"
 "選択してください。"
 
 #: C/goscaja.xml:287(para)
@@ -9391,7 +9391,7 @@ msgid ""
 msgstr ""
 "このオプションを選択すると、アイテムを手動で並び替えることができる (アイテム"
 "を手動で並び替えるには、ビュー・ペインの中で移動したい場所にアイテムをドラッ"
-"グ&ドロップする)"
+"グドロップする)"
 
 #: C/goscaja.xml:1243(guilabel)
 msgid "By Name"
@@ -9963,7 +9963,7 @@ msgstr "キャンセル"
 
 #: C/goscaja.xml:1725(para)
 msgid "Cancels the drag-and-drop operation."
-msgstr "このドラッグ&ドロップ操作を取り消す"
+msgstr "このドラッグドロップ操作を取り消す"
 
 #: C/goscaja.xml:1736(phrase) C/gosbasic.xml:473(phrase)
 msgid "Ask pointer."
@@ -12527,7 +12527,7 @@ msgid ""
 msgstr ""
 "接続に必要な情報を入力したら<guibutton>接続</guibutton>ボタンをクリックしてく"
 "ださい。接続に成功すると、接続先のサーバにある内容が表示され、そのリモート・"
-"サーバへオブジェクトをドラッグ&ドロップして送信したり、逆に受信することができ"
+"サーバへオブジェクトをドラッグドロップして送信したり、逆に受信することができ"
 "るようになります。"
 
 #: C/goscaja.xml:3237(title)
@@ -14523,7 +14523,7 @@ msgstr ""
 
 #: C/goscustdesk.xml:286(title)
 msgid "Look and Feel"
-msgstr "ルック&フィール"
+msgstr "ルックフィール"
 
 #: C/goscustdesk.xml:289(title)
 #, fuzzy
@@ -14924,7 +14924,7 @@ msgid ""
 "the following steps:"
 msgstr ""
 "コントロールやウィンドウ・フレーム、アイコンなどをインストールする手順は次の"
-"とおりです: (注意: <emphasis>この内容は古いです</emphasis>)<"
+"とおりです: (注意: この内容は古いです)"
 
 #: C/goscustdesk.xml:516(para)
 msgid "Click on the tab for the type of option that you want to delete."
@@ -15011,10 +15011,6 @@ msgid ""
 "guilabel> dialog</link> in the <application>Caja</application> file "
 "manager."
 msgstr ""
-"さらに、<application>Caja</application> ファイル・マネージャの<link "
-"linkend=\"caja-backgrounds-and-emblems\"><guilabel>背景とエンブレム</"
-"guilabel>のダイアログ</link>から色やパターンを選択してデスクトップへドラッグ&"
-"ドロップすることも可能です。"
 
 #: C/goscustdesk.xml:568(para)
 msgid ""
@@ -17508,7 +17504,7 @@ msgid ""
 "Use the slider to specify the distance that you must move an item before the "
 "move action is interpreted as a drag-and-drop action."
 msgstr ""
-"スライダを使い、ドラッグ&ドロップの操作として認識されるまでにアイテムを移動す"
+"スライダを使い、ドラッグドロップの操作として認識されるまでにアイテムを移動す"
 "べき距離を指定する"
 
 #: C/goscustdesk.xml:2262(guilabel)

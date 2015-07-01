@@ -5939,7 +5939,7 @@ msgid ""
 msgstr ""
 "โปรแกรมประยุกต์ที่สอดคล้องกับ MATE จะมีหน้าตาและการใช้งานที่สม่ำเสมอกัน "
 "คุณสามารถใช้เครื่องมือปรับแต่ง <link linkend=\"prefs-theme\"><application>รูปโฉม</"
-"application> ปรับเปลี่ยนหน้าตาและการใช้งานของโปรแกรมที่สอดคล้องกับ MATE ได้"
+"application></link> ปรับเปลี่ยนหน้าตาและการใช้งานของโปรแกรมที่สอดคล้องกับ MATE ได้"
 
 #: C/gosoverview.xml:445(para)
 msgid "Menubars, toolbars, and statusbars"
@@ -6907,10 +6907,6 @@ msgid ""
 "have bookmarked are listed here. For more on bookmarks, see <xref linkend="
 "\"caja-bookmarks\"/>."
 msgstr ""
-"เลือกรายการจาก <link linkend\"places-menu\">เมนู <guimenuitem>ที่หลัก ๆ</"
-"guimenuitem></link> ที่พาเนลขอบบน "
-"โฟลเดอร์บ้านของคุณและโฟลเดอร์ที่คุณได้คั่นหน้าไว้จะปรากฏอยู่ที่นั่น ดูข้อมูลเพิ่มเติมเกี่ยวกับที่คั่นหน้าได้ที่ "
-"<xref linkend=\"caja-bookmarks\"/>"
 
 #: C/goscaja.xml:146(para)
 msgid ""

@@ -2678,7 +2678,7 @@ msgid ""
 "volume of the speakers on your system. For more on this, see the <ulink type="
 "\"help\" url=\"help:mate-volume-control\">Volume Control Manual</ulink>."
 msgstr ""
-"application>音量控制</application> 允许您控制系统扬声器和话筒的音量。更多相关"
+"<application>音量控制</application> 允许您控制系统扬声器和话筒的音量。更多相关"
 "信息，请参阅： <ulink type=\"help\" url=\"help:mate-volume-control\">音量控"
 "制手册</ulink>。"
 
@@ -12506,7 +12506,7 @@ msgstr ""
 "要查看脚本文件夹的内容，如果您已经安装了脚本，点击 <menuchoice><guimenu>文件"
 "</guimenu><guisubmenu>脚本</guisubmenu><guimenuitem>打开脚本文件夹</"
 "guimenuitem></menuchoice>，然后可以在文件管理器中浏览文件夹。如果您还没有安装"
-"脚本程序，使用 <guimenu>查看</guimenu><guimenuitem>显示隐藏文件</"
+"脚本程序，使用 <menuchoice><guimenu>查看</guimenu><guimenuitem>显示隐藏文件</"
 "guimenuitem></menuchoice>"
 
 #: C/goscaja.xml:4200(para)
@@ -12857,7 +12857,7 @@ msgstr ""
 msgid ""
 "Choose <guimenuitem>Log Out</guimenuitem> to log out of MATE, or to switch "
 "user."
-msgstr "选择 < guimenuitem>注销</guimenuitem> 退出 MATE，或者切换用户。"
+msgstr "选择 <guimenuitem>注销</guimenuitem> 退出 MATE，或者切换用户。"
 
 #: C/goseditmainmenu.xml:86(para)
 msgid ""
@@ -15587,7 +15587,7 @@ msgid ""
 msgstr ""
 "这一段讲述了您可以设置的各个选项。更多键盘辅助功能相关的信息，请参阅： "
 "<ulink type=\"help\" url=\"help:mate-access-guide?index\"><citetitle>MATE "
-"桌面可用性指南</citeitle></ulink>。"
+"桌面可用性指南</citetitle></ulink>。"
 
 #: C/goscustdesk.xml:1752(para)
 msgid ""
@@ -15948,7 +15948,7 @@ msgid ""
 "mouse buttons are configured for left-hand or right-hand use and configure "
 "the speed and sensitivity of your mouse."
 msgstr ""
-"在 <guilabel常规</guilabel> 选项卡中，可以指定是否鼠标设置为左手习惯。您也可"
+"在 <guilabel>常规</guilabel> 选项卡中，可以指定是否鼠标设置为左手习惯。您也可"
 "以指定两次单击和双击之间的时间间隔。"
 
 #: C/goscustdesk.xml:2166(para)
@@ -16376,9 +16376,6 @@ msgid ""
 "monitor flicker and can cause discomfort to your eyes. This is less of a "
 "problem on LCD displays."
 msgstr ""
-"从下拉列表中，为当前选中的显示器选择刷新率。<emphasis>刷新率</emphasis> 指定"
-"计算机多久重新绘制屏幕。过低的刷新率(<60)，会使屏幕闪烁使你的眼睛很不舒服。在"
-"液晶显示器上这个问题很小。"
 
 #: C/goscustdesk.xml:2560(guilabel)
 msgid "Rotation"

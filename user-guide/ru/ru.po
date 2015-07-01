@@ -4470,7 +4470,7 @@ msgid ""
 "screensaver that is displayed when you lock the screen."
 msgstr ""
 "Открывает <link linkend=\"prefs-screensaver\">инструмент настройки "
-"<application>Хранителя экрана</application>, с помощью которого вы можете "
+"<application>Хранителя экрана</application></link>, с помощью которого вы можете "
 "настроить вид хранителя, появляющегося при блокировке экрана."
 
 #: C/gospanel.xml:1281(title)
@@ -19274,7 +19274,7 @@ msgid ""
 "keys that provide you with a quick way to perform a task."
 msgstr ""
 "Почти каждую задачу, выполняемую мышью, можно выполнить и при помощи "
-"клавиатуры. <firstterm>Комбинации клавиш<firstterm> — это сочетания клавиш, "
+"клавиатуры. <firstterm>Комбинации клавиш</firstterm> — это сочетания клавиш, "
 "которые позволяют быстро выполнять задачи."
 
 #: C/gosbasic.xml:555(para)

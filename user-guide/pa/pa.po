@@ -3666,7 +3666,7 @@ msgid ""
 "<application><link linkend=\"windowlist\">Window List</link></application>: "
 "Displays the windows currently open on your system."
 msgstr ""
-"<application><link linkend=\"windowlist\">ਵਿੰਡੋ ਲਿਸਟ</application>: ਤੁਹਾਡੇ "
+"<application><link linkend=\"windowlist\">ਵਿੰਡੋ ਲਿਸਟ</link></application>: ਤੁਹਾਡੇ "
 "ਸਿਸਟਮ ਉੱਤੇ ਇਸ ਸਮੇਂ ਖੁੱਲੀਆਂ ਵਿੰਡੋਜ਼ ਵੇਖਾਉਦਾ ਹੈ।"
 
 #: C/gospanel.xml:681(para)
@@ -6274,8 +6274,8 @@ msgid ""
 "<ulink type=\"help\" url=\"help:mate-dictionary\"><application>Dictionary</"
 "application></ulink> allows you to look up definitions of a word."
 msgstr ""
-"<ulink type=\"help\" url=\"help:mate-dictionary\">ਡਿਕਸ਼ਨਰੀ<application></"
-"application> ਤੁਹਾਨੂੰ ਇੱਕ ਸ਼ਬਦ ਦੇ ਅਰਥ ਵੇਖਣ ਲਈ ਸਹਾਇਕ ਹੈ।"
+"<ulink type=\"help\" url=\"help:mate-dictionary\"><application>ਡਿਕਸ਼ਨਰੀ</"
+"application></ulink> ਤੁਹਾਨੂੰ ਇੱਕ ਸ਼ਬਦ ਦੇ ਅਰਥ ਵੇਖਣ ਲਈ ਸਹਾਇਕ ਹੈ।"
 
 #: C/gosoverview.xml:422(para)
 msgid ""
@@ -17280,7 +17280,7 @@ msgstr "ਸਵਿੱਚਾਂ"
 
 #: C/gosbasic.xml:971(para)
 msgid "Arrow keys or <keycap>Tab</keycap>"
-msgstr "ਤੀਰ ਸਵਿੱਚਾਂ ਜਾਂ <keycap>ਟੈਬ"
+msgstr "ਤੀਰ ਸਵਿੱਚਾਂ ਜਾਂ <keycap>ਟੈਬ</keycap>"
 
 #: C/gosbasic.xml:974(para)
 msgid "Move between controls in the interface or items in a list."
@@ -17734,7 +17734,7 @@ msgid ""
 "To report a bug or make a suggestion regarding the MATE desktop or this "
 "manual, follow the directions in the <link linkend=\"feedback\">MATE "
 "Feedback Page</link>."
-msgstr "ਗਨੋਮ ਡੈਸਕਟਾਪ ਜਾਂ ਇਹ ਮੈਨੁਅਲ ਬਾਰੇ ਬੱਗ ਰਿਪੋਰਟ ਦੇਣ ਜਾਂ ਸੁਝਾਅ ਲਈ, <link linkend=\"feedback\">ਗਨੋਮ ਸੁਝਾਅ ਸਫ਼ਾ</ulink> ਦੀਆਂ ਹਦਾਇਤਾਂ ਵੇਖੋ।"
+msgstr "ਗਨੋਮ ਡੈਸਕਟਾਪ ਜਾਂ ਇਹ ਮੈਨੁਅਲ ਬਾਰੇ ਬੱਗ ਰਿਪੋਰਟ ਦੇਣ ਜਾਂ ਸੁਝਾਅ ਲਈ, <link linkend=\"feedback\">ਗਨੋਮ ਸੁਝਾਅ ਸਫ਼ਾ</link> ਦੀਆਂ ਹਦਾਇਤਾਂ ਵੇਖੋ।"
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
 #: C/user-guide.xml:0(None)

@@ -12988,7 +12988,7 @@ msgstr ""
 "megtekinthetők a <citetitle>MATE asztali környezet akadálymentesítési "
 "kézikönyvben</citetitle>, azon belül a <ulink type=\"help\" url=\"help:"
 "mate-access-guide?dtconfig-14\"><citetitle>Az az egér emulálásának "
-"engedélyezése a billentyűzetnek</citetitle> alfejezetben."
+"engedélyezése a billentyűzetnek</citetitle></ulink> alfejezetben."
 
 #: C/goscustdesk.xml:529(para)
 msgid "You can set the following mouse key preferences:"

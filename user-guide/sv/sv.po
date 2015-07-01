@@ -12318,7 +12318,7 @@ msgstr "Denna handbok beskriver version 2.14 av MATE-skrivbordet."
 
 #: C/user-guide.xml:228(para)
 msgid "To report a bug or make a suggestion regarding the MATE desktop or this manual, follow the directions in the <link linkend=\"feedback\">MATE Feedback Page</link>."
-msgstr "För att rapportera ett fel eller komma med ett förslag angående MATE-skrivbordet eller denna handbok, följ instruktionerna på <link linkend=\"feedback\">MATE:s återkopplingssida</ulink>."
+msgstr "För att rapportera ett fel eller komma med ett förslag angående MATE-skrivbordet eller denna handbok, följ instruktionerna på <link linkend=\"feedback\">MATE:s återkopplingssida</link>."
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
 #: C/user-guide.xml:0(None)

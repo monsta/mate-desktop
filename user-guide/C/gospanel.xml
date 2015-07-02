@@ -674,7 +674,7 @@ user interface resides within a panel. The following figure shows the following
 applets, from left to right: </para>
     <itemizedlist>
       <listitem>
-        <para><application><link linkend="windowlist">Window List</link></application>: Displays the windows
+        <para><application><xref linkend="windowlist"/></application>: Displays the windows
 currently open on your system.</para>
       </listitem>
       <listitem>
@@ -682,7 +682,7 @@ currently open on your system.</para>
 control the volume of the speaker on your system.</para>
       </listitem>
       <listitem>
-        <para><application>Clock</application>: Shows the current date and time.</para>
+        <para><ulink type="help" url="help:mate-clock"><application>Clock</application></ulink>: Shows the current date and time.</para>
       </listitem>
     </itemizedlist>
     <screenshot>

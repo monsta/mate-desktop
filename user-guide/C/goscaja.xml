@@ -70,7 +70,7 @@ folder. The desktop contains special icons allowing easy access to the users Hom
   </sect2>
   <sect2 id="caja-presentation">
     <title>File Manager Presentation</title>
-    <para><application>Caja</application> provides two modes in which you can interact with your filesystem: spatial and browser mode. You may decide which method you prefer and set  <application>Caja</application> to always use this by selecting (or deselecting) <guilabel>Always open in browser windows</guilabel> in the <guilabel>Behavior</guilabel> tab of the <link linkend="caja-preferences">Caja preferences dialog</link>.</para>
+    <para><application>Caja</application> provides two modes in which you can interact with your filesystem: spatial and browser mode. You may decide which method you prefer and set  <application>Caja</application> to always use this by selecting (or deselecting) <guilabel>Always open in browser windows</guilabel> in the <guilabel>Behavior</guilabel> tab of the <xref linkend="caja-preferences"/>.</para>
     <para>Spatial mode is the default in MATE, but your distributor, vendor, or system administrator may have configured <application>Caja</application> to use browser mode by default.</para>   
     <para>The following explains the difference between the two modes:</para>
       <variablelist>
@@ -2208,7 +2208,7 @@ dialog.</para>
             <para>Select the file that you want to change. </para>
           </listitem>
           <listitem>
-            <para>Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>. The <link linkend="caja-properties">properties window</link> for the item is displayed.</para>
+            <para>Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>. The <xref linkend="caja-properties"/> for the item is displayed.</para>
           </listitem>
           <listitem>
             <para>Click on the <guilabel>Permissions</guilabel> tab.</para>
@@ -2371,8 +2371,8 @@ in the side pane.</para>
     	  <listitem><para>The <guimenu>Places</guimenu> menu on the top panel.</para></listitem>
     	  <listitem><para>The <guimenu>Places</guimenu> menu in a folder window.</para></listitem>
     	  <listitem><para>The <guimenu>Bookmarks</guimenu> menu in a <application>Caja</application> browser window.</para></listitem>
-    	  <listitem><para>The side pane in the <link linkend="filechooser-open"><guilabel>Open File</guilabel> dialog</link>. This allows you to quickly open a file that is in one of your bookmarked locations.</para></listitem>
-    	  <listitem><para>The list of commonly used locations in the <link linkend="filechooser-save"> <guilabel>Save File</guilabel> dialog</link>. This allows you to quickly save a file to a location you have in your bookmarks.</para></listitem>
+    	  <listitem><para>The side pane in the <xref linkend="filechooser-open"/>. This allows you to quickly open a file that is in one of your bookmarked locations.</para></listitem>
+    	  <listitem><para>The list of commonly used locations in the <xref linkend="filechooser-save"/>. This allows you to quickly save a file to a location you have in your bookmarks.</para></listitem>
       </itemizedlist>
       
       <para>To open an item that is in your bookmarks, choose the item from a menu.</para>
@@ -2743,7 +2743,7 @@ individual file or folder, perform the following steps:</para>
           <para>Select the file or folder that you want to change.</para>
         </listitem>
         <listitem>
-          <para>Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>. The <link linkend="caja-properties">properties window</link> for the item is displayed. </para>
+          <para>Choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice>. The <xref linkend="caja-properties"/> for the item is displayed. </para>
         </listitem>
         <listitem>
           <para>On the <guilabel>Basic</guilabel> tabbed section, click on
@@ -4193,7 +4193,7 @@ the submenu. You can also select multiple files to run your scripts on.</para>
       <title>Installing File Manager Scripts</title>
         <para>The file manager includes a special folder where you can
 store your scripts. All executable files in this folder will appear in the Scripts menu. The script folder 
-is located at $HOME/.mate2/caja-scripts.</para>
+is located at $HOME/.config/caja/scripts.</para>
         <para>To install a script, simply copy the script to the script folder and give it the user executable permission.</para>
       <para>To view the contents of your scripts folder, if you already have scripts installed, choose <menuchoice><guimenu>File</guimenu><guisubmenu>Scripts</guisubmenu><guimenuitem>Open Scripts Folder</guimenuitem></menuchoice>.
 You will have to navigate to the scripts folder with the file manager if you do not yet have any scripts. You may need to show hidden files for this, use <menuchoice><guimenu>View</guimenu><guimenuitem>Show Hidden Files</guimenuitem></menuchoice></para>

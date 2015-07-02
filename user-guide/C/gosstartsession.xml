@@ -120,7 +120,7 @@ on the login screen, then press <keycap>Return</keycap>.</para>
         <para>When you log in to a session in a different language, you are changing 
 the language for the user interface but are not changing the keyboard layout. 
 To choose a different keyboard layout, use the 
-<ulink type="help" url="help:gswitchit"><application>Keyboard Indicator</application></ulink> applet.</para>
+<application>Keyboard Indicator</application> applet.</para>
       </note>
       <tip>
         <para>Your system distributor or vendor may have altered the login 
@@ -153,7 +153,7 @@ To choose a different keyboard layout, use the
     <indexterm>
       <primary>Lock button</primary>
     </indexterm>
-    <para>Locking your screen prevents access to your applications and information, allowing you to leave your computer unattended. While your screen is locked, the <link linkend="prefs-screensaver">screensaver</link> runs.</para>
+    <para>Locking your screen prevents access to your applications and information, allowing you to leave your computer unattended. While your screen is locked, the screensaver runs.</para>
     
     <para>To lock the screen, perform
 one of the following actions:</para>

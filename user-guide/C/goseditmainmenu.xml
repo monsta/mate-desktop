@@ -28,7 +28,7 @@
 
   <para>The panel menubar is your main point of access to MATE. Use the <guimenu>Applications</guimenu> menu to launch applications, the <guimenu>Places</guimenu> to open locations on your computer or network, and the <guimenu>System</guimenu> to customize your system, get help with MATE, and log out of MATE or shut down your computer.</para>
   <para>The following sections describe these three menus.</para>
-  <tip><para>By default, the panel menubar is on the <link linkend="top-panel">Top Edge Panel</link>. But like any other panel object, you can move the menubar to another panel, or have more than one instance of the menubar in your panels. For more on this, see <xref linkend="panel-menus"/>.</para></tip>
+  <tip><para>By default, the panel menubar is on the <xref linkend="top-panel"/>>. But like any other panel object, you can move the menubar to another panel, or have more than one instance of the menubar in your panels. For more on this, see <xref linkend="panel-menus"/>.</para></tip>
 
   <section id="applications-menu">
     <title>Applications Menu</title>
@@ -115,6 +115,5 @@
     <para>The <guilabel>Menu Layout</guilabel> window lists the menus in the left pane. Click on the expander arrows to show or hide submenus. Choose a menu in the left pane to see its items listed in the right pane.</para>
     <para>To remove an item from a menu, deselect it in the list. The item can be added back to the menu by selecting it once again.</para>
 
-    <note><para>The <ulink type="help" url="help:system-admin-guide?menustructure-0">System Administration Guide</ulink> has more information on how MATE implements menus and how administrators can customize them.</para></note>
   </section>
 </chapter>

@@ -45,7 +45,7 @@
     <listitem>
       <para>Enter the command that you want to run in the blank field, or choose from the list of known applications.</para>
       <para>If you enter only the location of a file, an appropriate application will launch to open it.
-      If you enter a web page address, your default web browser will open the page. Prefix the web page address with http://, as in http://www.gnome.org.
+      If you enter a web page address, your default web browser will open the page. Prefix the web page address with http://, as in http://www.mate-desktop.org.
       </para>
       <para>
         To choose a command that you ran previously, click the
@@ -1046,9 +1046,8 @@ a screenshot of the entire screen.</para>
     <section>
       <title>Homepage and Mailing List</title>
 
-      <para>For further information on <application>Yelp Help Browser</application>, please visit the Documentation Project homepage, <ulink
-    url="http://live.gnome.org/Yelp">http://live.gnome.org/Yelp</ulink>, or subscribe to
-      the mailing list, <ulink type="http" url="http://mail.gnome.org/mailman/listinfo/mate-doc-devel-list">mate-doc-devel-list@gnome.org</ulink>.</para>
+      <para>For further information on <application>Yelp Help Browser</application>, please visit the Documentation Project homepage, <ulink url="http://mate-desktop.org"></ulink>, or subscribe to
+      the mailing list, <ulink type="http" url="http://ml.mate-desktop.org/listinfo/mate-dev"></ulink>.</para>
     </section>
   </section>
 
@@ -1056,8 +1055,7 @@ a screenshot of the entire screen.</para>
     <title>Joining the MATE Documentation Project</title>
 
     <para>If you are interesting in helping produce and update documentation
-    for the MATE project, please visit the Documentation Project homepage: <ulink
-    url="http://live.gnome.org/DocumentationProject">http://live.gnome.org/DocumentationProject</ulink></para>
+    for the MATE project, please visit the Documentation Project homepage: <ulink url="http://wiki.mate-desktop.org/dev-doc:doc-team-guide?s[]=users[]=guide#mate_documentation_team"></ulink></para>
   </section>
 
 </section>

@@ -316,7 +316,7 @@ action on the object over which your mouse pointer is situated, depending on whi
    <para>The following mouse pointers are shown as your mouse passes over 
    different elements of the screen:</para>
    
-   <note><para>Your mouse pointers will differ from those shown here if you are using a different <link linkend="prefs-mouse">pointer theme</link>. Your distributor or vendor may have set a different default theme.</para></note>
+   <note><para>Your mouse pointers will differ from those shown here if you are using a different pointer theme. Your distributor or vendor may have set a different default theme.</para></note>
    
    <variablelist>
       <varlistentry>
